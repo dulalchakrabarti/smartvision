@@ -1,0 +1,32 @@
+Annexure-I:  Detailed prompts and responses in English and Hindi
+Prompt in English
+"Analyze the 5 images at [29.76412,76.8340754] containing  (Feb,2018) to (Apr,2018).Please provide a comprehensive report including:
+Phenological Timeline: Identify key growth stages (Tillering, Heading, Anthesis, Maturity) linked to video timestamps.
+Thermal Accumulation: Calculate estimated Cumulative Growing Degree Days (GDD) using a base temperature of [5 deg C]. 
+Anomaly Detection: Identify any visual stressors (lodging, chlorosis, water stress, or pest damage) and the exact timestamp they appear.
+Yield Prediction: Estimate the potential yield (t/ha) based on regional benchmarks for these coordinates, adjusting for any observed stressors.
+Confidence Score: Assign a 1–100 confidence rating for the analysis based on visual clarity and available environmental data.Present the final data in a structured table and provide a concise summary of the season's performance."
+Response in English
+Prompt in Hindi (हिन्दी)
+“[29.97071077, 76.9497227] पर स्थित (फरवरी, 2018 से अप्रैल, 2018 तक की) 6 छवियों का विश्लेषण करें। कृपया एक विस्तृत रिपोर्ट प्रदान करें जिसमें निम्नलिखित शामिल हों:
+फेनोलॉजिकल टाइमलाइन (Phenological Timeline): फसल विकास के मुख्य चरणों (जैसे टिलरिंग, हेडिंग, एंथेसिस, परिपक्वता) की पहचान करें और उन्हें इमेज/वीडियो के समय (timestamps) से जोड़ें।
+थर्मल संचय (Thermal Accumulation): [5°C] के आधार तापमान का उपयोग करके अनुमानित संचयी ग्रोइंग डिग्री डेज़ (GDD) की गणना करें।
+विसंगति का पता लगाना (Anomaly Detection): किसी भी दृश्य तनाव (जैसे फसल का गिरना/lodging, क्लोरोसिस, पानी की कमी, या कीटों से नुकसान) और उनके दिखने के सटीक समय की पहचान करें।
+उपज का पूर्वानुमान (Yield Prediction): इन निर्देशांकों के क्षेत्रीय मानकों (benchmarks) के आधार पर संभावित उपज (टन/हेक्टेयर) का अनुमान लगाएं और देखे गए तनावों के आधार पर इसमें सुधार/समायोजन करें।
+कॉन्फिडेंस स्कोर (Confidence Score): दृश्य स्पष्टता और उपलब्ध पर्यावरणीय डेटा के आधार पर विश्लेषण को 1-100 के बीच रेटिंग दें।
+अंतिम डेटा को एक संरचित तालिका (structured table) में प्रस्तुत करें और सीजन के प्रदर्शन का एक संक्षिप्त सारांश प्रदान करें।"
+Prompt in Hindi (हिन्दी)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Similar prompts in all the major Indian languages are supported in Gemini App.
