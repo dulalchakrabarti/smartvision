@@ -1,0 +1,30 @@
+Annexure-II: Mobile setup
+
+Mobile setup for geotagging of images
+"Geotagging" an image simply means embedding geographical information (latitude and longitude) into the photo's metadata. This allows apps to show exactly where a photo was taken on a map.
+On Android
+Most Android phones use Camera app.
+4.1.1.1 To Enable: Open the Camera app, go to Settings (gear icon), and toggle on "Save location" or "Location tags."
+Gemini setup for Voice Prompt and Response
+
+To set up Gemini for voice prompts and responses, you primarily use the Gemini mobile app on Android or iOS. Depending on how you want to interact, you can either use the standard Microphone button or the more conversational Gemini Live mode.
+Enable "Hey Google" (Hands-Free)
+If you want Gemini to wake up when you speak, you must set it as your primary digital assistant (this replaces the classic Google Assistant).
+Open the Gemini app.
+Tap your Profile Picture at the top right and go to Settings.
+Tap Google Assistant (or "Digital assistants from Google").
+Ensure Gemini is selected as your primary assistant.
+"Hey Google" & Voice Match and toggle it On.
+Setting Up Voice Responses
+To ensure Gemini speaks back to you rather than just showing text:
+In regular chat: Tap the Microphone icon in the bottom bar, say your prompt, and Gemini will automatically read its response aloud.
+Change the Voice:
+Go to Gemini Settings.
+Tap Gemini's Voice.
+Swipe through the options (e.g., Nova, Lyra, Vega) to hear samples and tap Select on your favorite.
+Using Gemini Live (Continuous Conversation)
+Gemini Live allows for a natural, back-and-forth conversation where you can interrupt and don't need to tap a button for every prompt.
+Open the Gemini app.
+Tap the Live icon (looks like a waveform with a spark) at the bottom right.
+To interrupt: Simply start speaking while Gemini is talking.
+In the background: You can swipe out of the app, and the conversation will continue as long as the "Live with Gemini" notification is active.
